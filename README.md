@@ -14,11 +14,11 @@ Customer churn is a major cost driver in subscription-based businesses. The goal
 
 **🛠️ Tech Stack**
 
-    1. **Python:** pandas, numpy, matplotlib, seaborn, scikit-learn, XGBoost
+    1. Python: pandas, numpy, matplotlib, seaborn, scikit-learn, XGBoost
 
-    2. **SQL:** basic queries for data cleaning & exploration
+    2. SQL: basic queries for data cleaning & exploration
 
-    3. **Tableau:** interactive dashboard for churn & lost revenue
+    3. Tableau: interactive dashboard for churn & lost revenue
 
 **📈 Key Results**
 
